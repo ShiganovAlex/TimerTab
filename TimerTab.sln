@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.902
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerTab", "TimerTab\TimerTab.csproj", "{51A262BB-2F9B-4EAD-96FE-72B5134A3FE1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabTimerTest", "TabTimerTest\TabTimerTest.csproj", "{B1A8D1F6-F484-4332-8042-77DF9CD095E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{51A262BB-2F9B-4EAD-96FE-72B5134A3FE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51A262BB-2F9B-4EAD-96FE-72B5134A3FE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51A262BB-2F9B-4EAD-96FE-72B5134A3FE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1A8D1F6-F484-4332-8042-77DF9CD095E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1A8D1F6-F484-4332-8042-77DF9CD095E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1A8D1F6-F484-4332-8042-77DF9CD095E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1A8D1F6-F484-4332-8042-77DF9CD095E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
