@@ -15,9 +15,6 @@ using System.Windows.Shapes;
 
 namespace TimerTab.View
 {
-    /// <summary>
-    /// Interaction logic for TabContent.xaml
-    /// </summary>
     public partial class TabContent : UserControl
     {
         public TabContent()

@@ -7,6 +7,7 @@
              xmlns:viewmodel="clr-namespace:TimerTab.ViewModel"
              mc:Ignorable="d" 
              d:DesignHeight="125" d:DesignWidth="400">
+    
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="200*"/>

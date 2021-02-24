@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 
 namespace TimerTab.Model
 {
-   public class TaskTimer
+    public class TaskTimer
     {
         public delegate void TimerChange();
         public event TimerChange OnTimerChange;

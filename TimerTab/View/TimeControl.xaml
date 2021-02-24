@@ -17,7 +17,7 @@
             <ColumnDefinition Width="34*"/>
             <ColumnDefinition Width="34*"/>
         </Grid.ColumnDefinitions>
-        <TextBox TextWrapping="Wrap" Text="{Binding Hours}" FontSize="22" FontWeight="Bold" TextAlignment="Center" Margin="0,0,3,0"/>
+       <TextBox TextWrapping="Wrap" Text="{Binding Hours}" FontSize="22" FontWeight="Bold" TextAlignment="Center" Margin="0,0,3,0"/>
         <TextBox Margin="3,0" TextWrapping="Wrap" Text="{Binding Minutes}" FontSize="22" FontWeight="Bold" Grid.Column="1" TextAlignment="Center"/>
         <TextBox Margin="3,0" TextWrapping="Wrap" Text="{Binding Seconds}" FontSize="22" FontWeight="Bold" Grid.Column="2" TextAlignment="Center"/>
         <TextBox Margin="3,0,0,0" TextWrapping="Wrap" Text="{Binding Milliseconds}" FontSize="22" FontWeight="Bold" Grid.Column="3" TextAlignment="Center"/>
